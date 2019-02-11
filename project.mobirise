@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "publicatie 3ba",
-    "currentPage": "D2017.html",
+    "currentPage": "page5.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -3157,8 +3157,8 @@
                 "thumb": "@PROJECT_PATH@/assets/images/berk-2017-800x1085.jpg",
                 "alt": "",
                 "title": "",
-                "customStyle1": "display-7",
-                "caption": "Onderschrift hier",
+                "customStyle1": "display-4",
+                "caption": "De hulstboom, blauw kleurpotlood op papier, 2017",
                 "active": false
               },
               {
@@ -3170,8 +3170,8 @@
                 "thumb": "@PROJECT_PATH@/assets/images/blauwe-wolkenregen-800x611.jpg",
                 "alt": "",
                 "title": "",
-                "customStyle1": "display-7",
-                "caption": "Onderschrift hier",
+                "customStyle1": "display-4",
+                "caption": "Blauwe Wolkenregen, zwarte balpen, softpastel en oliepaster, 2018",
                 "active": false
               },
               {
@@ -3183,8 +3183,8 @@
                 "thumb": "@PROJECT_PATH@/assets/images/img022-800x1101.jpg",
                 "alt": "",
                 "title": "",
-                "customStyle1": "display-7",
-                "caption": "Onderschrift hier",
+                "customStyle1": "display-4",
+                "caption": "Zonder titel, grafiet, softpastel, oliepastel, 2019",
                 "active": false
               },
               {
@@ -3196,8 +3196,8 @@
                 "thumb": "@PROJECT_PATH@/assets/images/wat-een-mooie-dag-800x926.jpg",
                 "alt": "",
                 "title": "",
-                "customStyle1": "display-7",
-                "caption": "Onderschrift hier",
+                "customStyle1": "display-4",
+                "caption": "Wat Een Mooie Dag, carbonpapier, grafiet, softpastel, oliepastel, 2018",
                 "active": true
               }
             ]
